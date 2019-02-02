@@ -1,0 +1,13 @@
+* {
+  background-color: #f2f2ff;
+  font-family: Arial;
+}
+
+img {
+  height: 150;
+  width: 150;
+}
+
+#content {
+  padding-top: 20%;
+}
